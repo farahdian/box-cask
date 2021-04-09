@@ -1,2 +1,2 @@
 # box-cask
-furniture store webpage
+a simple furniture store webpage
